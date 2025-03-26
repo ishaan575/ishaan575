@@ -1,6 +1,4 @@
-Here's a structured introduction for your GitHub profile README:
 
----
 
 # **Hi, I'm Ishaan Patyal! 👋**  
 🚀 **Passionate Computer Science Student | Aspiring Software Engineer | Tech Enthusiast**  
